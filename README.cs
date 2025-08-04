@@ -60,6 +60,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 ## 📁 Files Included
 
 - `scan_results.txt` — raw Nmap scan output
+- `wireshark_output.png` — wireshark packet analyzer
 - `nmap_output.png` — screenshot of command prompt with Nmap scan
 - `README.md` — this file
 
