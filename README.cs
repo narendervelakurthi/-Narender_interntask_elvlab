@@ -50,6 +50,13 @@ Scanned my local network for open ports using Nmap to understand which services 
 
 ---
 
+### Wireshark SYN Packet Filter
+Filter used:
+
+tcp.flags.syn == 1 && tcp.flags.ack == 0
+
+---
+
 ## 📁 Files Included
 
 - `scan_results.txt` — raw Nmap scan output
