@@ -56,6 +56,16 @@
 
 ---
 
+## 📁 Files Included
+
+- `mail.png` — phishing mail
+- `sample-1274.eml` — phishing mail (text format)
+- `virustotal_result.png` — screenshot of malicious link
+- `MxToolbox_result.jpg` — screenshot of header
+- `README.md` — this file
+
+---
+
 ## ✅ Conclusion
 
 This email fails all standard security checks. The sender is spoofed, authentication headers fail, and the message uses scare tactics. This is a phishing email and should be reported immediately.
