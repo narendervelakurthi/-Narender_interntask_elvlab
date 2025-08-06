@@ -1,4 +1,4 @@
-# Cybersecurity Internship - Task 1
+# Local Network Port Scan - Task 1
 
 ## 🎯 Objective
 Scanned my local network for open ports using Nmap to understand which services are exposed and how they might create security risks.
